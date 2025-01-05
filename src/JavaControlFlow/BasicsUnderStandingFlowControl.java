@@ -1,4 +1,4 @@
-package JavaProgPrep;
+package JavaControlFlow;
 
 public class BasicsUnderStandingFlowControl {
     public static void main(String[] args)
@@ -9,10 +9,10 @@ public class BasicsUnderStandingFlowControl {
         if(a>=b)
         {
             System.out.println("Good mrng");
-        }
+        }else{
         System.out.println("Good Afternoon");
 
-    }
+    }}
 
 
 }
