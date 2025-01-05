@@ -9,7 +9,8 @@ public class BasicsUnderStandingFlowControl {
         if(a>=b)
         {
             System.out.println("Good mrng");
-        }else{
+        }
+        else{
         System.out.println("Good Afternoon");
 
     }}
