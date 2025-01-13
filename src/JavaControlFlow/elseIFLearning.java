@@ -21,7 +21,8 @@ public class elseIFLearning {
             System.out.println("B and C are equal and largest");
         }
         // Finally check individual largest number
-        else if (a > b && a > c) {
+        else if (a > b && a > c)
+        {
             System.out.println("A is the largest number");
         }
         else if (b > a && b > c) {
